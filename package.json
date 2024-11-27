@@ -80,7 +80,7 @@
     "istanbul-lib-coverage": "2.0.5",
     "jest": "24.9.0",
     "lorem-ipsum": "2.0.1",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "nyc": "14.1.1",
     "path": "latest",
     "react": "16.11.0",
